@@ -1,2 +1,1 @@
-# asynchronousBallMovement
-Boiler plate for ball moving aysnchronously
+# updating name and distance of individual players in dB
